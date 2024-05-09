@@ -6,7 +6,7 @@
 
 ### 📌O projekcie
 Witaj w projekcie stworzonym na potrzeby serwera DIGMC.eu! 
-Naszym celem jest wyeliminowanie problemu ograniczenia ruchu API (uwierzytelnienie sesji) narzuconego przez Mojang (600 zapytań na 10 minut).<br> 
+Naszym celem było wyeliminowanie problemu ograniczenia ruchu API (uwierzytelnienie sesji) narzuconego przez Mojang (600 zapytań na 10 minut).<br> 
 Dzięki naszemu innowacyjnemu rozwiązaniu, serwery obsługujące większą liczbę graczy nie muszą już czekać na odnowienie się limitu, co pozwala na płynniejsze i bardziej bezproblemowe doświadczenia dla naszych użytkowników.
 
 ### 📌Publiczność Projektu
